@@ -27,3 +27,16 @@
 # baris 7 -> foto masa naik-turun hubungan
 # baris 8 -> foto abis baikan lagi
 # baris 9 -> foto yang lebih baru/recent
+foto A.jpg
+foto B.jpg
+foto C (1).jpg
+foto D (1).JPG
+foto E (1).jpg
+foto F.jpg
+foto G.jpg
+foto H.png
+foto I.jpg
+Screenshot_2026_0718_204412.jpg
+Screenshot_2026_0718_204446.jpg
+Screenshot_2026_0718_204514.jpg
+Screenshot_2026_0718_204535.jpg
