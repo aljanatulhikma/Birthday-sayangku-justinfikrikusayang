@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
         entry.target.classList.add('visible');
       }
     });
-  }, { threshold: 0.15 });
+  }, { threshold: 0.05 });
   revealEls.forEach(el => revealObserver.observe(el));
 
   /* ============= ENTER BUTTON ============= */
