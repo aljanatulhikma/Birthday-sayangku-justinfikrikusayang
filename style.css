@@ -27,7 +27,7 @@ body {
 img { max-width: 100%; display: block; }
 
 /* =========================================================
-   BACKGROUND — GOTHAM ATMOSPHERE
+   BACKGROUND â€” GOTHAM ATMOSPHERE
 ========================================================= */
 .gotham-skyline {
   position: fixed;
@@ -150,7 +150,7 @@ img { max-width: 100%; display: block; }
 }
 .loading-heart-ring::before,
 .loading-heart-ring::after {
-  content: '✦';
+  content: 'âœ¦';
   position: absolute;
   color: var(--gold);
   font-size: 0.7rem;
@@ -331,6 +331,7 @@ main { position: relative; z-index: 10; }
   position: relative;
   width: 100%;
   min-height: 100vh;
+  min-height: 100dvh;
   padding: 100px 6vw;
   display: flex;
   flex-direction: column;
@@ -587,6 +588,7 @@ main { position: relative; z-index: 10; }
 ========================================================= */
 .envelope-page {
   min-height: 100vh;
+  min-height: 100dvh;
   padding-top: 100px;
   justify-content: flex-start;
 }
