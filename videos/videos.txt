@@ -20,9 +20,9 @@
 #    loading tergantung koneksi internet yang buka website, itu normal.
 VID-20260718-WA0025.mp4
 vid4.mp4
+AVi-compressed.mp4
 AVid.mp4
 AVid2.mp4
-AVi-compressed.mp4
 Avid5-compressed.mp4
 AVid1-compressed.mp4
 Avid3.mp4
