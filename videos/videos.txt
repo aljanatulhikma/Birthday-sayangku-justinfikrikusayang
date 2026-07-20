@@ -22,3 +22,8 @@ VID-20260718-WA0025.mp4
 vid4.mp4
 AVid.mp4
 Avid2.mp4
+Avi-compressed.mp4
+Avid5-compressed.mp4
+Avid1-compressed.mp4
+Avid2.mp4
+Avid3.mp4
