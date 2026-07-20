@@ -20,3 +20,5 @@
 #    loading tergantung koneksi internet yang buka website, itu normal.
 VID-20260718-WA0025.mp4
 vid4.mp4
+AVid.mp4
+Avid2.mp4
