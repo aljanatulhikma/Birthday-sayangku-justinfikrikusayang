@@ -1,5 +1,5 @@
 /* =========================================================
-   BIRTHDAY WEBSITE FOR JUSTIN â€” MAIN SCRIPT
+   BIRTHDAY WEBSITE FOR JUSTIN — MAIN SCRIPT
 ========================================================= */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -420,7 +420,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const soundHint = document.createElement('div');
     soundHint.className = 'video-sound-hint';
-    soundHint.textContent = 'ðŸ”‡ Sentuh untuk suara';
+    soundHint.textContent = '🔇 Sentuh untuk suara';
 
     card.appendChild(video);
     card.appendChild(soundHint);
@@ -441,12 +441,12 @@ document.addEventListener('DOMContentLoaded', () => {
     card.addEventListener('click', () => {
       if (video.muted) {
         video.muted = false;
-        soundHint.textContent = 'ðŸ”Š Sentuh untuk mute';
+        soundHint.textContent = '🔊 Sentuh untuk mute';
         wasMusicPlayingBeforeVideo = !bgMusic.paused;
         if (wasMusicPlayingBeforeVideo) pauseMusic();
       } else {
         video.muted = true;
-        soundHint.textContent = 'ðŸ”‡ Sentuh untuk suara';
+        soundHint.textContent = '🔇 Sentuh untuk suara';
         if (wasMusicPlayingBeforeVideo) playMusic();
       }
     });
@@ -473,7 +473,7 @@ document.addEventListener('DOMContentLoaded', () => {
           video.pause();
           if (!video.muted) {
             video.muted = true;
-            soundHint.textContent = 'ðŸ”‡ Sentuh untuk suara';
+            soundHint.textContent = '🔇 Sentuh untuk suara';
             if (wasMusicPlayingBeforeVideo) playMusic();
           }
         }
@@ -529,7 +529,7 @@ document.addEventListener('DOMContentLoaded', () => {
   envelopeGraphic.addEventListener('click', openEnvelope);
   envelopeBtn.addEventListener('click', openEnvelope);
 
-  /* ============= LETTER PAGE â€” PARAGRAPH FADE + VOLUME DUCKING ============= */
+  /* ============= LETTER PAGE — PARAGRAPH FADE + VOLUME DUCKING ============= */
   const letterSection = document.getElementById('letter');
   const letterParagraphs = document.querySelectorAll('.letter-body p');
   const letterQuote = document.getElementById('letterQuote');
