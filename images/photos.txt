@@ -1,4 +1,4 @@
-666# CARA PAKAI (baca dulu sebelum isi):
+# CARA PAKAI (baca dulu sebelum isi):
 #
 # 1. Upload foto-foto kamu ke folder images/ ini APA ADANYA.
 #    Nama filenya boleh apa saja, contoh: IMG_2024.jpg, WA0001.jpg, foto_pacar.png, dst.
